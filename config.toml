@@ -5,7 +5,7 @@ theme = "hugo-lodi-theme"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
-    theme_color = "#574CDD"
+    theme_color = "#EEBC40"
     description = "Portfolio of Floris van den Berg, UX Writer"
     description_photo = "portfolio.jpg"
     favicon = "favicon.png"
