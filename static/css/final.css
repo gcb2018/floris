@@ -219,12 +219,12 @@ section {
   /* Rectangle 3: */
   display: inline-block;
   margin-top: 20px;
-  background: #5A54AF;
+  background: #EEBC40;
   /* Download Resume: */
   font-family: Roboto;
   font-size: 15px;
   /*padding: 15px 50px;*/
-  color: #C3D5FF;
+  color: #fff;
   padding: 18px 0;
   width: 296px;
   text-align: center;
