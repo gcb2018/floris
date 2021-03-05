@@ -1,124 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 34 31" style="enable-background:new 0 0 34 31;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#EEBC40;}
-	.st1{fill:#363F40;}
-</style>
-<title>design-64px-outline_book-open</title>
-<desc>Created with Sketch.</desc>
-<g>
-	<rect x="22.81" y="10.91" class="st0" width="7.03" height="1.51"/>
-	<rect x="4.74" y="3.89" class="st0" width="19.07" height="4.52"/>
-	<g>
-		<g>
-			<g>
-				<g>
-					<path class="st1" d="M18,21.52H2.95c-1.11,0-2.01-0.9-2.01-2.01V2.45c0-1.11,0.9-2.01,2.01-2.01h22.08
-						c1.11,0,2.01,0.9,2.01,2.01v4.01h-1V2.45c0-0.55-0.45-1-1-1H2.95c-0.55,0-1,0.45-1,1v17.06c0,0.55,0.45,1,1,1H18V21.52z"/>
-				</g>
-				<g>
-					<rect x="16" y="21.02" class="st1" width="1" height="5.02"/>
-				</g>
-				<g>
-					<rect x="10.98" y="21.02" class="st1" width="1" height="5.02"/>
-				</g>
-				<g>
-					<rect x="0.94" y="25.54" class="st1" width="8.03" height="1"/>
-				</g>
-				<g>
-					<rect x="1.44" y="16.5" class="st1" width="16.56" height="1"/>
-				</g>
-				<g>
-					<rect x="13.49" y="18.51" class="st1" width="1" height="1"/>
-				</g>
-			</g>
-			<g>
-				<rect x="3.95" y="9.48" class="st1" width="6.52" height="1"/>
-			</g>
-			<g>
-				<rect x="11.48" y="9.48" class="st1" width="6.52" height="1"/>
-			</g>
-			<g>
-				<rect x="3.95" y="11.49" class="st1" width="6.52" height="1"/>
-			</g>
-			<g>
-				<rect x="11.48" y="11.49" class="st1" width="6.52" height="1"/>
-			</g>
-			<g>
-				<rect x="3.95" y="13.49" class="st1" width="6.52" height="1"/>
-			</g>
-			<g>
-				<rect x="11.48" y="13.49" class="st1" width="6.52" height="1"/>
-			</g>
-			<g>
-				<g>
-					<g>
-						<path class="st1" d="M31.55,26.54H20.51c-0.83,0-1.51-0.68-1.51-1.51V8.98c0-0.83,0.68-1.51,1.51-1.51h11.04
-							c0.83,0,1.51,0.68,1.51,1.51v16.06C33.06,25.86,32.38,26.54,31.55,26.54z M20.51,8.47c-0.28,0-0.5,0.22-0.5,0.5v16.06
-							c0,0.28,0.23,0.5,0.5,0.5h11.04c0.28,0,0.5-0.22,0.5-0.5V8.98c0-0.28-0.23-0.5-0.5-0.5H20.51z"/>
-					</g>
-					<g>
-						<rect x="25.03" y="23.53" class="st1" width="2.01" height="1"/>
-					</g>
-				</g>
-				<g>
-					<path class="st1" d="M30.05,13.49h-8.03v-3.01h8.03V13.49z M23.02,12.49h6.02v-1h-6.02V12.49z"/>
-				</g>
-				<g>
-					<rect x="22.02" y="14.5" class="st1" width="8.03" height="1"/>
-				</g>
-				<g>
-					<rect x="22.02" y="16.5" class="st1" width="8.03" height="1"/>
-				</g>
-				<g>
-					<rect x="22.02" y="18.51" class="st1" width="8.03" height="1"/>
-				</g>
-				<g>
-					<rect x="22.02" y="20.52" class="st1" width="8.03" height="1"/>
-				</g>
-			</g>
-			<g>
-				<g>
-					<polygon class="st1" points="18,8.47 3.95,8.47 3.95,3.46 24.03,3.46 24.03,6.47 23.02,6.47 23.02,4.46 4.96,4.46 4.96,7.47 
-						18,7.47 					"/>
-				</g>
-			</g>
-			<g>
-				<rect x="0.94" y="27.54" class="st1" width="32.11" height="1"/>
-			</g>
-			<g>
-				<rect x="4.96" y="28.04" class="st1" width="1" height="2.51"/>
-			</g>
-			<g>
-				<rect x="7.97" y="28.04" class="st1" width="1" height="2.51"/>
-			</g>
-			<g>
-				<rect x="25.03" y="28.04" class="st1" width="1" height="2.51"/>
-			</g>
-			<g>
-				<rect x="28.04" y="28.04" class="st1" width="1" height="2.51"/>
-			</g>
-			<g>
-				<rect x="9.97" y="25.54" class="st1" width="8.03" height="1"/>
-			</g>
-			<g>
-				<rect x="5.96" y="5.46" class="st1" width="1" height="1"/>
-			</g>
-			<g>
-				<rect x="7.97" y="5.46" class="st1" width="1" height="1"/>
-			</g>
-			<g>
-				<rect x="9.97" y="5.46" class="st1" width="1" height="1"/>
-			</g>
-			<g>
-				<rect x="11.98" y="5.46" class="st1" width="1" height="1"/>
-			</g>
-			<g>
-				<rect x="13.99" y="5.46" class="st1" width="1" height="1"/>
-			</g>
-		</g>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Untitled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.89 26.1 0.89 26.1 21.9695 0 21.9695"></polygon>
+        <polygon id="path-3" points="0 31 32.12 31 32.12 0.89 0 0.89"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="websitecopy">
+            <polygon id="Fill-1" fill="#EEBC40" points="21.87 12.98 28.9 12.98 28.9 11.47 21.87 11.47"></polygon>
+            <polygon id="Fill-2" fill="#EEBC40" points="3.8 8.97 22.869 8.97 22.869 4.45 3.8 4.45"></polygon>
+            <g id="Group-37" transform="translate(0.000000, 0.110000)">
+                <g id="Group-5">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M17.06,21.9695 L2.01,21.9695 C0.9,21.9695 0,21.0705 0,19.9595 L0,2.9005 C0,1.7895 0.9,0.8895 2.01,0.8895 L24.09,0.8895 C25.2,0.8895 26.1,1.7895 26.1,2.9005 L26.1,6.9095 L25.1,6.9095 L25.1,2.9005 C25.1,2.3495 24.65,1.9005 24.1,1.9005 L2.01,1.9005 C1.46,1.9005 1.01,2.3495 1.01,2.9005 L1.01,19.9595 C1.01,20.5095 1.46,20.9595 2.01,20.9595 L17.06,20.9595 L17.06,21.9695 Z" id="Fill-3" fill="#363F40" mask="url(#mask-2)"></path>
+                </g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-7"></g>
+                <polygon id="Fill-6" fill="#363F40" mask="url(#mask-4)" points="15.06 26.491 16.06 26.491 16.06 21.47 15.06 21.47"></polygon>
+                <polygon id="Fill-8" fill="#363F40" mask="url(#mask-4)" points="10.04 26.491 11.04 26.491 11.04 21.47 10.04 21.47"></polygon>
+                <polygon id="Fill-9" fill="#363F40" mask="url(#mask-4)" points="0 26.99 8.03 26.99 8.03 25.99 0 25.99"></polygon>
+                <polygon id="Fill-10" fill="#363F40" mask="url(#mask-4)" points="0.5 17.95 17.06 17.95 17.06 16.95 0.5 16.95"></polygon>
+                <polygon id="Fill-11" fill="#363F40" mask="url(#mask-4)" points="12.55 19.96 13.55 19.96 13.55 18.96 12.55 18.96"></polygon>
+                <polygon id="Fill-12" fill="#363F40" mask="url(#mask-4)" points="3.01 10.93 9.53 10.93 9.53 9.93 3.01 9.93"></polygon>
+                <polygon id="Fill-13" fill="#363F40" mask="url(#mask-4)" points="10.54 10.93 17.06 10.93 17.06 9.93 10.54 9.93"></polygon>
+                <polygon id="Fill-14" fill="#363F40" mask="url(#mask-4)" points="3.01 12.94 9.53 12.94 9.53 11.94 3.01 11.94"></polygon>
+                <polygon id="Fill-15" fill="#363F40" mask="url(#mask-4)" points="10.54 12.94 17.06 12.94 17.06 11.94 10.54 11.94"></polygon>
+                <polygon id="Fill-16" fill="#363F40" mask="url(#mask-4)" points="3.01 14.94 9.53 14.94 9.53 13.94 3.01 13.94"></polygon>
+                <polygon id="Fill-17" fill="#363F40" mask="url(#mask-4)" points="10.54 14.94 17.06 14.94 17.06 13.94 10.54 13.94"></polygon>
+                <path d="M19.5698,8.9202 C19.2908,8.9202 19.0698,9.1402 19.0698,9.4202 L19.0698,25.4802 C19.0698,25.7592 19.2998,25.9802 19.5698,25.9802 L30.6098,25.9802 C30.8898,25.9802 31.1098,25.7592 31.1098,25.4802 L31.1098,9.4302 C31.1098,9.1502 30.8808,8.9302 30.6098,8.9302 L19.5698,8.9302 L19.5698,8.9202 Z M30.6098,26.9902 L19.5698,26.9902 C18.7398,26.9902 18.0598,26.3102 18.0598,25.4802 L18.0598,9.4302 C18.0598,8.6002 18.7398,7.9202 19.5698,7.9202 L30.6098,7.9202 C31.4398,7.9202 32.1198,8.6002 32.1198,9.4302 L32.1198,25.4902 C32.1198,26.3102 31.4398,26.9902 30.6098,26.9902 L30.6098,26.9902 Z" id="Fill-18" fill="#363F40" mask="url(#mask-4)"></path>
+                <polygon id="Fill-19" fill="#363F40" mask="url(#mask-4)" points="24.09 24.98 26.1 24.98 26.1 23.98 24.09 23.98"></polygon>
+                <path d="M22.08,12.94 L28.101,12.94 L28.101,11.94 L22.08,11.94 L22.08,12.94 Z M21.08,13.94 L29.11,13.94 L29.11,10.93 L21.08,10.93 L21.08,13.94 Z" id="Fill-20" fill="#363F40" mask="url(#mask-4)"></path>
+                <polygon id="Fill-21" fill="#363F40" mask="url(#mask-4)" points="21.08 15.95 29.11 15.95 29.11 14.95 21.08 14.95"></polygon>
+                <polygon id="Fill-22" fill="#363F40" mask="url(#mask-4)" points="21.08 17.95 29.11 17.95 29.11 16.95 21.08 16.95"></polygon>
+                <polygon id="Fill-23" fill="#363F40" mask="url(#mask-4)" points="21.08 19.96 29.11 19.96 29.11 18.96 21.08 18.96"></polygon>
+                <polygon id="Fill-24" fill="#363F40" mask="url(#mask-4)" points="21.08 21.97 29.11 21.97 29.11 20.97 21.08 20.97"></polygon>
+                <polygon id="Fill-25" fill="#363F40" mask="url(#mask-4)" points="17.06 8.9202 3.01 8.9202 3.01 3.9102 23.09 3.9102 23.09 6.9202 22.08 6.9202 22.08 4.9102 4.02 4.9102 4.02 7.9202 17.06 7.9202"></polygon>
+                <polygon id="Fill-26" fill="#363F40" mask="url(#mask-4)" points="0 28.99 32.11 28.99 32.11 27.99 0 27.99"></polygon>
+                <polygon id="Fill-27" fill="#363F40" mask="url(#mask-4)" points="4.02 31 5.02 31 5.02 28.49 4.02 28.49"></polygon>
+                <polygon id="Fill-28" fill="#363F40" mask="url(#mask-4)" points="7.03 31 8.03 31 8.03 28.49 7.03 28.49"></polygon>
+                <polygon id="Fill-29" fill="#363F40" mask="url(#mask-4)" points="24.09 31 25.09 31 25.09 28.49 24.09 28.49"></polygon>
+                <polygon id="Fill-30" fill="#363F40" mask="url(#mask-4)" points="27.1 31 28.1 31 28.1 28.49 27.1 28.49"></polygon>
+                <polygon id="Fill-31" fill="#363F40" mask="url(#mask-4)" points="9.03 26.99 17.06 26.99 17.06 25.99 9.03 25.99"></polygon>
+                <polygon id="Fill-32" fill="#363F40" mask="url(#mask-4)" points="5.02 6.91 6.02 6.91 6.02 5.91 5.02 5.91"></polygon>
+                <polygon id="Fill-33" fill="#363F40" mask="url(#mask-4)" points="7.03 6.91 8.03 6.91 8.03 5.91 7.03 5.91"></polygon>
+                <polygon id="Fill-34" fill="#363F40" mask="url(#mask-4)" points="9.03 6.91 10.03 6.91 10.03 5.91 9.03 5.91"></polygon>
+                <polygon id="Fill-35" fill="#363F40" mask="url(#mask-4)" points="11.04 6.91 12.04 6.91 12.04 5.91 11.04 5.91"></polygon>
+                <polygon id="Fill-36" fill="#363F40" mask="url(#mask-4)" points="13.05 6.91 14.05 6.91 14.05 5.91 13.05 5.91"></polygon>
+            </g>
+        </g>
+    </g>
 </svg>
