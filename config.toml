@@ -11,9 +11,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     favicon = "favicon.png"
     logo = "logo.png"
     email = "fdvandenberg@gmail.com"
-    twitter = "lexiscollado"
-    dribbble = "alexiscollado"
-    linkedin = "https://www.linkedin.com/in/alexander-hans-collado-jr-9444146a"
+    twitter = "floremipsum"
+    linkedin = "https://www.linkedin.com/in/fdvandenberg"
 
 [params.nav]
     enable = true
